@@ -3,3 +3,7 @@
 ass-2/*
 !ass-2/*.ipynb
 !ass-2/*.pdf
+
+ass-3/*
+!ass-3/*.ipynb
+!ass-3/*.pdf
